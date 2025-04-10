@@ -18,3 +18,7 @@ for(let i = 1; i < 11; i++){
 for(let i = 1; i < 11; i++){
   console.log('asad');
 }
+//sixth loop
+for(let i = 1; i < 11; i++){
+  console.log('asad');
+}
