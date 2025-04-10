@@ -1,3 +1,7 @@
 for(let i = 1; i < 11; i++){
   console.log('asad');
 }
+for(let i = 1; i < 11; i++){
+  console.log('asad');
+}
+
