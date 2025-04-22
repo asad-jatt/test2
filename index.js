@@ -26,3 +26,10 @@ for(let i = 1; i < 11; i++){
 for(let i = 1; i < 11; i++){
   console.log('asad');
 }
+
+//whie loop
+let i = 1;
+while(i <= 10){
+  console.log('asad');
+  i++;
+}
